@@ -1,0 +1,44 @@
+﻿Code,Rank of parameters
+1,
+2,"Typical floor area/GFA, Ground area/GFA, Slab type, Core location, Console direction, Foundation type, GFA, Number of floors"
+3,"Type of building, Duration, Mechanical installations, Piling, Internal wall finishes, Structure type, Site access, Protective installations, Internal walls, Foundation type, Wall/floor ratio, Special installations, External walls, Floor finishes, Height, Number of units, Type of electricity works"
+4,"GFA, Unit area, Number of floors, Finishes grade, Location, Foundation type, Number of units, Roof type, Usage of basement"
+5,"Type of building, Duration, Mechanical installations, Piling, Internal wall finishes, Structure type, Site access, Protective installations, Internal walls, Foundation type, Wall/floor ratio, Special installations, External walls, Floor finishes, Height, Number of units, Type of electricity works"
+6,
+7,"GFA, Time index, Common area ratio, Unit area, Location"
+8,
+9,"Contratc type, Level of specialization required of contractors, Level of technologically advancement, Whether it is a residential building or not, Contractor's technical expertise, Owner's level of construction sophistication, Contractor's ability in financial management"
+10,"Number of floors, Floor type, Typical floor area/GFA, Overhang design, Ground area/GFA, GFA, Core location, Foundation type"
+11,
+12,
+13,"Number of floors, Ground floor area, Number of elevators, Foundation type, Number of units, Number of columns, Typical floor area"
+14,"GFA,  Construction cost index, City cost index, Common area ratio, GFA/Unit, Site area, Structure type, Number of elevator stops, Duration"
+15,"Foundation type, Core location, Overhang design, Typical floor area/GFA, Ground area/GFA, GFA, Number of floors, Slab type"
+16,"GFA, Ground area, Number of floors, Site area"
+17,
+18,
+19,"GFA, Number of floors, Number of unit floor households, Structure type, Number of households of unit floor per elevator, Hallway type, Number of units, Roof type, Number of piloti with household scale, Depth of pit, Number of elevators, Floor height"
+20,
+21,"Compactness, Number of elevators, Absolute size, Duration, Proportion of openings, Location"
+22,
+23,
+24,"Height, GFA"
+25,"GFA, Number of unit floor households, Number of floors"
+26,
+27,"GFA, Number of units, Number of floors, Number of unit floor households, Number of pilotis with household scale,  Number of households of unit floor per elevator, Number of elevators, Roof type, Depth of pit, Floor height, Hallway type"
+28,
+29,"GFA, Ground area, Number of units, Number of floors, Budget type, Number of floors, Number of basement floors, Floor height, Land acquisition"
+30,
+31,"Location, Foundation type, Usage of basement, Roof type, Duration, Unit Area, Number of units, GFA"
+32,"Number of units, GFA, Number of unit floor households, Number of elevators, Number of floors, Number of piloti with households scale, Number of households of unit floor per elevator, Floor height, Depth of pit, Roof type, Hallway type, Structure type"
+33,"GFA, Unit type, Hallway type, Number of piloti floors, Number of elevators, Number of floor households, Foundation type"
+34,
+35,
+36,
+37,
+38,"Typical floor area, Number of floors, Number of elevators, Type of sanitary works, Type of external finishes, Presence of HVAC and false ceiling, Type of electricity works, Foundation type, Type of building, Slab type, Type of tiling"
+39,
+40,
+41,"GFA, Cubature, Number of floors, Foundation type, Structure type, Roof type, Number of structural segments of the building, Number of elevators, Ground conditions, Unit area, Usable area of commercial premises, Usable area of underground garages, Finishes grade"
+42,"GFA, Number of floors, Roof type"
+43,"Number of floors, Typical floor area, Type of internal finishes, Type of external finishes"

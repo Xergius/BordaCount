@@ -4,14 +4,10 @@
 #
 #-------------------------------------------------------------------------------------
 
-
 import csv
 import pandas
 import pprint
 
-
-
-# rankings  = [["banana","pera", "naranja"],["banana", "naranja", "pera"],["naranja", "banana"],["pera", "naranja", "manzana", "banana"]]
 
 rankings = []
 
