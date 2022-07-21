@@ -29,7 +29,7 @@ maxpoints = 0
 alternatives = set()
 for i in rankings:
     for j in i:
-        alternatives.add(j)                # Add alternative to a set to avoid repertitions.
+        alternatives.add(j)                # Add alternative to a set to avoid repetitions.
 rankdict = []
 scores = {}
 maxpoints = len(alternatives)               # max score for an alternative.
